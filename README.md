@@ -1,4 +1,4 @@
-## Python Implementation of DPGMM using numpy ndarrays 
+## Dirichlet Process Gaussian Mixtures
 
 
 
@@ -6,8 +6,17 @@
 
 
 
-### 1. Collapsed Gibbs Sampler w/ CRP representation of Dirichlet process ([reference](https://www.kamperh.com/notes/kamper_bayesgmm15.pdf))
+### 1. Collapsed Gibbs Sampler w/ CRP representation of Dirichlet process
 
 
 
-TBD) Stick-breaking implementation & Variational inference
+### 2. Collapsed Gibbs Sampler w/ Stick-breaking implementation representation of Dirichlet process
+
+
+
+### 3. Variational Bayes Application (scikit-learn)
+
+
+
+
+
